@@ -1,14 +1,10 @@
 ### Hi! 👋 I'm Zaidan.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed PHP & JavaScript and make it the main language in creating a project.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
-
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 📫 How to reach me: zdnsyrhn22@gmail.com
 
 ### Tech Stack
   <a href="https://www.php.net/"><img align="left" alt="JavaScript" title="PHP" width="21px" src="https://www.php.net/images/logos/php-logo-white.svg" /></a>
@@ -18,7 +14,6 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
   <br>
   <br>
   
@@ -31,7 +26,6 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://linkedin.com/in/zdnsyrhn22/">LinkedIn</a>
+- <a href="#">zsyrhn.dev (Coming soon)</a>
+- zdnsyrhn22@gmail.com
